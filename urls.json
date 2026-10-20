@@ -1,0 +1,7 @@
+{
+  "intervalSeconds": 60,
+  "timeoutSeconds": 45,
+  "urls": [
+    "https://bizzness-d864.onrender.com"
+  ]
+}
